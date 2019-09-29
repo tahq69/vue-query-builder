@@ -1,14 +1,10 @@
 import Vue from "vue"
 
-// import CripLoading from "@/main"
+import { QueryBuilder, QueryPreview } from "@/main"
 import App from "./components/Docs.vue"
 
-// Vue.use(CripLoading, {
-//   color: "#fff",
-//   height: "5px",
-//   logLevel: "debug",
-//   verbose: true,
-// })
+Vue.component("CripQueryBuilder", QueryBuilder)
+Vue.component("CripQueryPreview", QueryPreview)
 
 import router from "./router"
 

@@ -9,16 +9,14 @@ export default Vue.extend({
 
   components: { ExampleSection, CodeSample },
 
-  methods: {
-  },
+  methods: {},
 })
 </script>
 
 <template>
   <example-section title="Default usage">
+    <CripQueryBuilder></CripQueryBuilder>
 
-    <code-sample>
-      TODO: defaulr usage sample
-    </code-sample>
+    <code-sample>TODO: default usage sample</code-sample>
   </example-section>
 </template>

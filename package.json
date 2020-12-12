@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/node": "^8.5.1",
-    "bootstrap-sass": "^3.3.7",
+    "bootstrap-sass": "^3.4.1",
     "crip-bootstrap-theme": "github:tahq69/bootstrap-theme",
     "cross-env": "^3.0.0",
     "css-loader": "^0.25.0",

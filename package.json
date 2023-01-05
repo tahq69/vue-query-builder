@@ -26,9 +26,9 @@
     "bootstrap-sass": "^3.4.1",
     "crip-bootstrap-theme": "github:tahq69/bootstrap-theme",
     "cross-env": "^3.0.0",
-    "css-loader": "^0.25.0",
+    "css-loader": "^6.7.3",
     "extract-text-webpack-plugin": "^3.0.2",
-    "file-loader": "^0.9.0",
+    "file-loader": "^6.2.0",
     "node-sass": "^7.0.0",
     "prettier": "^1.9.2",
     "sass-loader": "^6.0.6",
@@ -43,7 +43,7 @@
     "vue-loader": "^12.2.2",
     "vue-router": "^3.1.3",
     "vue-template-compiler": "^2.6.10",
-    "webpack": "^3.12.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.1.11"
   }
 }
